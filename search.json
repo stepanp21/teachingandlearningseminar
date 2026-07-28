@@ -1,0 +1,429 @@
+[
+  {
+    "objectID": "sessions/2022-10-27-lightning-talks.html",
+    "href": "sessions/2022-10-27-lightning-talks.html",
+    "title": "Lightning Talk",
+    "section": "",
+    "text": "Once per semester, the Teaching and Learning Seminar will host 10-minute “lightning talks” in which 4 graduate students and/or faculty members will talk about some element of their teaching that they’d like to share. This may be a cool example you came up with for a class you are teaching, an innovative teaching technique or application of technology, an element of course policy or structure that you think has worked well, or anything else\nThis session’s talks:\n\nIan Bunner: TeX-hacking for creating instructional materials\nAshley Tharp: Scaffolding\nStepan Paul: Double integrals without volume\nNathan Reading: How WebAssign lies to students"
+  },
+  {
+    "objectID": "sessions/2022-10-27-lightning-talks.html#abstract",
+    "href": "sessions/2022-10-27-lightning-talks.html#abstract",
+    "title": "Lightning Talk",
+    "section": "",
+    "text": "Once per semester, the Teaching and Learning Seminar will host 10-minute “lightning talks” in which 4 graduate students and/or faculty members will talk about some element of their teaching that they’d like to share. This may be a cool example you came up with for a class you are teaching, an innovative teaching technique or application of technology, an element of course policy or structure that you think has worked well, or anything else\nThis session’s talks:\n\nIan Bunner: TeX-hacking for creating instructional materials\nAshley Tharp: Scaffolding\nStepan Paul: Double integrals without volume\nNathan Reading: How WebAssign lies to students"
+  },
+  {
+    "objectID": "sessions/2024-03-18-jack-emily.html",
+    "href": "sessions/2024-03-18-jack-emily.html",
+    "title": "A survey of Programs Preparing Graduate Students to Teach Undergraduate Mathematics",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2023-04-13-specifications-standards-based-grading.html",
+    "href": "sessions/2023-04-13-specifications-standards-based-grading.html",
+    "title": "Specifications-Based Grading in MA 225",
+    "section": "",
+    "text": "Alternative grading systems have been praised as more equitable, but how do they work in practice in the NCSU Math Department? In this talk, I’ll provide a brief overview of popular alternative grading systems. I’ll also share my experience of using specifications (or “specs”)-based grading in MA 225: Foundations of Advanced Mathematics, including why I chose specs-based grading, how I implemented it, how it has gone in MA 225 this semester, and takeaways from the experience. Finally, we’ll discuss ways to experiment with alternative grading options in various math classes."
+  },
+  {
+    "objectID": "sessions/2023-04-13-specifications-standards-based-grading.html#abstract",
+    "href": "sessions/2023-04-13-specifications-standards-based-grading.html#abstract",
+    "title": "Specifications-Based Grading in MA 225",
+    "section": "",
+    "text": "Alternative grading systems have been praised as more equitable, but how do they work in practice in the NCSU Math Department? In this talk, I’ll provide a brief overview of popular alternative grading systems. I’ll also share my experience of using specifications (or “specs”)-based grading in MA 225: Foundations of Advanced Mathematics, including why I chose specs-based grading, how I implemented it, how it has gone in MA 225 this semester, and takeaways from the experience. Finally, we’ll discuss ways to experiment with alternative grading options in various math classes."
+  },
+  {
+    "objectID": "sessions/2023-09-14-sunghwan.html",
+    "href": "sessions/2023-09-14-sunghwan.html",
+    "title": "Knowledge in Interaction: A Key to Promote Participatory Equity During Whole-Group Discussions",
+    "section": "",
+    "text": "Recording\nSlides"
+  },
+  {
+    "objectID": "sessions/2023-09-14-sunghwan.html#abstract",
+    "href": "sessions/2023-09-14-sunghwan.html#abstract",
+    "title": "Knowledge in Interaction: A Key to Promote Participatory Equity During Whole-Group Discussions",
+    "section": "Abstract",
+    "text": "Abstract\nResearch shows inequitable participation patterns are pervasive in mathematics classrooms. Thus, an important consideration for mathematics instructors is promoting participation by students with historically marginalized backgrounds. Existing literature often focuses on identifying and countering mathematics instructors’ implicit biases against minoritized students. However, redressing inequitable participation patterns requires changing social practices, looking beyond individual minds. In this talk, I discuss interactional challenges associated with inviting minoritized students to the conversational floor during whole-group discussions. Based on a fine-grained study on classroom interaction, I offer “knowledge in interaction” as an important consideration when we work to disrupt inequitable patterns of participation."
+  },
+  {
+    "objectID": "sessions/2024-02-01-catie-acitelli.html",
+    "href": "sessions/2024-02-01-catie-acitelli.html",
+    "title": "The Development and Implementation of New Applied Math Curricula",
+    "section": "",
+    "text": "Recording\n\nComputational and applied mathematics are growing in popularity and relevance. As students prepare for either the job market or graduate school, it is increasingly more important that their mathematics courses reflect the changing landscape of the field. In this talk, I will detail my development and initial implementation of two new courses: Applied Calculus I and Mathematical Cryptography with Python. Traditionally, Calculus is taught using the “paper-pencil” method with the potential use of a graphing calculator as an enhancement tool. In contrast, students in my Applied Calculus I course use SageMath, a Python-based computer algebra system, to explore patterns, properties, and applications, allowing them to ultimately dive deeper into the content. SageMath is also a gentle introduction to computational mathematics that helps to bridge the algebraic achievement gap and provide students with a visualization of many important concepts in the course. I will discuss how I designed the course to allow the practical application of classic concepts to complement the traditional theoretical background found in many Calculus courses. Quantum computing is also becoming more prevalent, and one of its most relevant applications is to the field of Cryptography. My Cryptography course allows students to explore the many facets of the changing field while strengthening their computer programming and computational abilities. In this course, students use Python to implement various cryptosystems, digital signature schemes, and zero knowledge proof protocol after learning the mathematical background of them. My talk will outline the course syllabus and structure, in-class content delivery, and projects and assessments. Additionally, I will share what I have learned during the first implementations of each course - what worked and what didn’t - and how I plan to update the courses for future semesters. Finally, I will highlight the various considerations that need to be made when designing new courses in applied mathematics."
+  },
+  {
+    "objectID": "sessions/2023-11-30-moodle-quiz-workshop.html",
+    "href": "sessions/2023-11-30-moodle-quiz-workshop.html",
+    "title": "Moodle Quiz Workshop",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2025-10-30-high-use-active-learning.html",
+    "href": "sessions/2025-10-30-high-use-active-learning.html",
+    "title": "Departments with high-use of active learning in introductory STEM courses: How did they get there?",
+    "section": "",
+    "text": "There is now a convincing body of research showing that a wide variety of active learning instructional strategies consistently improve student learning and other desired outcomes when compared to traditional instruction. Like most fields, there is a substantial gap between the research-based knowledge about effective teaching and the actual practices of instructors. In 2019 we conducted a web-based survey of 3,769 instructors who taught introductory chemistry, mathematics, and physics courses. Survey responses suggest that the instructional practices are more strongly influenced by departmental factors than individual or institutional factors. To understand how high use departments got there, we conducted interviews with 27 instructors in 16 departments that were in the top quartile in terms of the use of active learning in their introductory courses. We developed a model that highlights the relevant characteristics of departments that have high use of active learning instruction in their introductory courses. According to this model, there are four main characteristics of such departments (motivated people, knowledge about teaching, opportunities, and cultures and structures that support active learning) and two positive feedback loops. There are two main take-away messages for those interested in promoting the use of active learning. The first is that all four components are important. A weak or missing component will limit the desired outcome. The second is that desired outcomes are obtained and strengthened over time through the two positive feedback loops. It is not realistic to expect meaningful sustainable change to occur in less than three years."
+  },
+  {
+    "objectID": "sessions/2025-10-30-high-use-active-learning.html#abstract",
+    "href": "sessions/2025-10-30-high-use-active-learning.html#abstract",
+    "title": "Departments with high-use of active learning in introductory STEM courses: How did they get there?",
+    "section": "",
+    "text": "There is now a convincing body of research showing that a wide variety of active learning instructional strategies consistently improve student learning and other desired outcomes when compared to traditional instruction. Like most fields, there is a substantial gap between the research-based knowledge about effective teaching and the actual practices of instructors. In 2019 we conducted a web-based survey of 3,769 instructors who taught introductory chemistry, mathematics, and physics courses. Survey responses suggest that the instructional practices are more strongly influenced by departmental factors than individual or institutional factors. To understand how high use departments got there, we conducted interviews with 27 instructors in 16 departments that were in the top quartile in terms of the use of active learning in their introductory courses. We developed a model that highlights the relevant characteristics of departments that have high use of active learning instruction in their introductory courses. According to this model, there are four main characteristics of such departments (motivated people, knowledge about teaching, opportunities, and cultures and structures that support active learning) and two positive feedback loops. There are two main take-away messages for those interested in promoting the use of active learning. The first is that all four components are important. A weak or missing component will limit the desired outcome. The second is that desired outcomes are obtained and strengthened over time through the two positive feedback loops. It is not realistic to expect meaningful sustainable change to occur in less than three years."
+  },
+  {
+    "objectID": "sessions/2025-03-04-what-does-an-a-in-math-really-mean.html",
+    "href": "sessions/2025-03-04-what-does-an-a-in-math-really-mean.html",
+    "title": "What Does an “A” in Math Really Mean?",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2025-03-04-what-does-an-a-in-math-really-mean.html#abstract",
+    "href": "sessions/2025-03-04-what-does-an-a-in-math-really-mean.html#abstract",
+    "title": "What Does an “A” in Math Really Mean?",
+    "section": "Abstract",
+    "text": "Abstract\nDoes earning an “A” in a college math course indicate mastery? Does it guarantee success in the next course? Or is it just a reflection of point accumulation instead of meaningful understanding? Traditional grading systems often fail to clearly reflect what students actually understand, rewarding partial credit and strategic point-chasing over authentic learning. In this seminar, we’ll explore specifications grading, an alternative model that attempts to shift the focus from grades back to learning. I will share how I implemented this approach in my college-level Calculus I course, using clear learning objectives, flexible assessment opportunities, and a grading system that puts the emphasis back on student learning. We’ll discuss the benefits, challenges, and practical strategies for adopting specifications grading in college mathematics courses. If grades don’t always reflect learning, how should we measure student success? Join us in rethinking what grading can be!"
+  },
+  {
+    "objectID": "sessions/2023-09-28-matt-voigt.html",
+    "href": "sessions/2023-09-28-matt-voigt.html",
+    "title": "Engaging in Critical Transformation of Math Programs to Disrupt the System",
+    "section": "",
+    "text": "Recording\nSlides"
+  },
+  {
+    "objectID": "sessions/2023-09-28-matt-voigt.html#abstract",
+    "href": "sessions/2023-09-28-matt-voigt.html#abstract",
+    "title": "Engaging in Critical Transformation of Math Programs to Disrupt the System",
+    "section": "Abstract",
+    "text": "Abstract\nIn this interactive seminar, we will examine how data (qualitative and quantitative) can be leveraged to interrogate, disrupt, and enact changes in introductory math programs. In particular, I will share insights from the ACT UP Math project, which is studying the role and impact of research-practice partnerships between mathematics education experts and mathematics department faculty to critically and systematically initiate transformative efforts to improve the experiences of students with marginalized identities in introductory mathematics programs. This seminar will explore the shared experiences we encountered while working toward critical transformations, focusing on three tensions that surfaced and framing these tensions as expected and necessary components of the process of critical change. These three tensions explore the role of identity as neutral or central, the enactment of power as power over or power with, and the role of students as experts or novices. These expected and necessary tensions are evidence of the transformations from dominance toward criticality happening within the departments."
+  },
+  {
+    "objectID": "sessions/2023-09-28-matt-voigt.html#speaker-bio",
+    "href": "sessions/2023-09-28-matt-voigt.html#speaker-bio",
+    "title": "Engaging in Critical Transformation of Math Programs to Disrupt the System",
+    "section": "Speaker Bio",
+    "text": "Speaker Bio\nI am an assistant professor at Clemson University in the Engineering and Science Education Department. I grew up in a rural Minnesota farming community, and I am a proud first-generation college student and queer mathematics educator. I love to travel and cook. My research examines issues of equity and identity for marginalized groups in undergraduate mathematics. My bucket list goal is to visit every national park in the United States."
+  },
+  {
+    "objectID": "sessions/2025-04-08-journey-with-course-coordination.html",
+    "href": "sessions/2025-04-08-journey-with-course-coordination.html",
+    "title": "My Journey with Course Coordination",
+    "section": "",
+    "text": "Recording\nSlides"
+  },
+  {
+    "objectID": "sessions/2025-04-08-journey-with-course-coordination.html#abstract",
+    "href": "sessions/2025-04-08-journey-with-course-coordination.html#abstract",
+    "title": "My Journey with Course Coordination",
+    "section": "Abstract",
+    "text": "Abstract\nCamryn Thompson is a second-year PhD student in the pure mathematics program at NCState. However, during her time as a master’s student, she was involved with math education research. Camryn has had a unique perspective on course coordination, through both the lens of an instructor and the lens of a researcher. In this talk, she will guide us through her journey and discuss what she has learned through being an instructor of coordinated courses, reading literature, and conducting research on course coordination."
+  },
+  {
+    "objectID": "sessions/2024-11-07-team-based-learning-mastery-grading.html",
+    "href": "sessions/2024-11-07-team-based-learning-mastery-grading.html",
+    "title": "Team-based learning and mastery grading in linear algebra",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2024-11-07-team-based-learning-mastery-grading.html#abstract",
+    "href": "sessions/2024-11-07-team-based-learning-mastery-grading.html#abstract",
+    "title": "Team-based learning and mastery grading in linear algebra",
+    "section": "Abstract",
+    "text": "Abstract\nTeam-based learning is a type of flipped classroom, where homework is replaced with reading assignments and lectures are replaced with team problem solving. Mastery grading (also called outcomes-based assessment) replaces high-stakes exams with more frequent low-stakes assessments. Problems on these assessments are graded credit/no credit, and students earn points based on the number of skills for which they eventually earn credit. In this seminar, I’ll say more about these pedagogical techniques and explain how I used them in my MA 305 course last spring."
+  },
+  {
+    "objectID": "sessions/2022-12-01-flipped-hybrid-courses.html",
+    "href": "sessions/2022-12-01-flipped-hybrid-courses.html",
+    "title": "Workshop on Flipped and Hybrid Courses",
+    "section": "",
+    "text": "Recording\nSlides"
+  },
+  {
+    "objectID": "sessions/2022-12-01-flipped-hybrid-courses.html#abstract",
+    "href": "sessions/2022-12-01-flipped-hybrid-courses.html#abstract",
+    "title": "Workshop on Flipped and Hybrid Courses",
+    "section": "Abstract",
+    "text": "Abstract\nDELTA staff will share about a course design framework and instructional tools for blended/flipped teaching and learning, as well as other teaching resources. Supported by literature in instructional design and educational psychology, the framework has been applied and improved through DELTA Grant course design projects over the past eight years, including two math courses (MA 231 and MA 111). We will introduce a newly launched Moodle Roadmap tool that can visualize the course structure based on the framework and help students monitor their progress during the course. We will share about tools available at NC State for delivering content and assessing student learning (e.g., Panopto, Playposit, H5P, Quiz tools) in blended/flipped courses. We will also share teaching resources for enhancing your course quality, such as the Quick Start Course Shell, Syllabus Template, Teaching Resources Site, upcoming workshops and DELTA Grant opportunities. Instructors are welcome to ask questions during or at the end of the presentation."
+  },
+  {
+    "objectID": "sessions/2023-08-31-gradescope-workshop.html",
+    "href": "sessions/2023-08-31-gradescope-workshop.html",
+    "title": "Gradescope workshop",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2023-08-31-gradescope-workshop.html#abstract",
+    "href": "sessions/2023-08-31-gradescope-workshop.html#abstract",
+    "title": "Gradescope workshop",
+    "section": "Abstract",
+    "text": "Abstract\nThe speakers will talk about how to use Gradescope to streamline the grading process for assignments and exams. No experience with Gradescope is assumed, but the speakers will share tips that will benefit experienced users as well as newbies. Participants will be able to join a demo course to experience Gradescope from both the student and instructor side. This talk will be recorded."
+  },
+  {
+    "objectID": "sessions/2023-10-26-lightning-talks.html",
+    "href": "sessions/2023-10-26-lightning-talks.html",
+    "title": "Lightning Talks",
+    "section": "",
+    "text": "Once per semester, the Teaching and Learning Seminar will host 10-minute “lightning talks” in which graduate students and/or faculty members will talk about some element of their teaching that they’d like to share. This may be a cool example you came up with for a class you are teaching, an innovative teaching technique or application of technology, an element of course policy or structure that you think has worked well, or anything else. This session we will have:\n\nKylan Schatz: ChatGPT as a Tool for Teaching and Reflection\nLuke Castle: Group Projects in Finite Math\nTiancheng Xue: Inquiry-Based Learning"
+  },
+  {
+    "objectID": "sessions/2023-10-26-lightning-talks.html#abstract",
+    "href": "sessions/2023-10-26-lightning-talks.html#abstract",
+    "title": "Lightning Talks",
+    "section": "",
+    "text": "Once per semester, the Teaching and Learning Seminar will host 10-minute “lightning talks” in which graduate students and/or faculty members will talk about some element of their teaching that they’d like to share. This may be a cool example you came up with for a class you are teaching, an innovative teaching technique or application of technology, an element of course policy or structure that you think has worked well, or anything else. This session we will have:\n\nKylan Schatz: ChatGPT as a Tool for Teaching and Reflection\nLuke Castle: Group Projects in Finite Math\nTiancheng Xue: Inquiry-Based Learning"
+  },
+  {
+    "objectID": "sessions/2025-11-20-is-ptp-right-for-you.html",
+    "href": "sessions/2025-11-20-is-ptp-right-for-you.html",
+    "title": "Is PTP Right for You? Insights and Experiences from Former Fellows",
+    "section": "",
+    "text": "Preparing the Professoriate (PTP) is one of NC State’s long-running professional-development programs for late-stage doctoral students and postdoctoral scholars, designed to provide an immersive mentoring, teaching, and future faculty preparation experience. This panel brings together five former PTP fellows, including Alex Betz (NCSU, currently on the job market), Tim Ablondi (Lecturer, Yale University), Rachel Morris (Postdoctoral Fellow, Concordia University), Bryson Kagy (Lecturer, Texas State University), and Sarah Strikwerda (RTG Postdoctoral Fellow, University of Wisconsin–Madison). Panelists will discuss how PTP influenced their teaching, mentoring, and transition into academic roles, while also offering candid reflections on what aspects of the program proved most helpful, what they might have approached differently, and how the experience factored into their job-market trajectories. Attendees will be able to ask questions, hear a range of perspectives, and consider whether the program’s structure and commitments align with their own professional goals."
+  },
+  {
+    "objectID": "sessions/2025-11-20-is-ptp-right-for-you.html#abstract",
+    "href": "sessions/2025-11-20-is-ptp-right-for-you.html#abstract",
+    "title": "Is PTP Right for You? Insights and Experiences from Former Fellows",
+    "section": "",
+    "text": "Preparing the Professoriate (PTP) is one of NC State’s long-running professional-development programs for late-stage doctoral students and postdoctoral scholars, designed to provide an immersive mentoring, teaching, and future faculty preparation experience. This panel brings together five former PTP fellows, including Alex Betz (NCSU, currently on the job market), Tim Ablondi (Lecturer, Yale University), Rachel Morris (Postdoctoral Fellow, Concordia University), Bryson Kagy (Lecturer, Texas State University), and Sarah Strikwerda (RTG Postdoctoral Fellow, University of Wisconsin–Madison). Panelists will discuss how PTP influenced their teaching, mentoring, and transition into academic roles, while also offering candid reflections on what aspects of the program proved most helpful, what they might have approached differently, and how the experience factored into their job-market trajectories. Attendees will be able to ask questions, hear a range of perspectives, and consider whether the program’s structure and commitments align with their own professional goals."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This seminar hosts talks, workshops, panels, and other sessions related to the teaching and learning of mathematics."
+  },
+  {
+    "objectID": "about.html#fall-2026",
+    "href": "about.html#fall-2026",
+    "title": "About",
+    "section": "Fall 2026",
+    "text": "Fall 2026\nThis semester, Dr. Stepan Paul will be organizing the seminar. Se will meet Thursdays at 3pm in SAS 4201 unless otherwise noted.\nIf you would like to propose a session, suggest an invited speaker, or volunteer to give a talk, please reach out to Dr. Paul sspaul2@ncsu.edu."
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "Date\n\n\n\nSession\n\n\n\nSpeaker\n\n\n\n\n\n\n\n\nNov 20, 2025\n\n\nIs PTP Right for You? Insights and Experiences from Former Fellows\n\n\nPanel with Alex Betz (NC State Mathematics), Tim Ablondi (Yale University), Rachel Morris (Concordia University), Bryson Kagy (Texas State University), and Sarah Strikwerda (University of Wisconsin–Madison)\n\n\n\n\n\n\nOct 30, 2025\n\n\nDepartments with high-use of active learning in introductory STEM courses: How did they get there?\n\n\nCharles Henderson (NC State Physics)\n\n\n\n\n\n\nOct 16, 2025\n\n\nAre you ready for the new federal law?\n\n\nBevin Maultsby (NC State Mathematics)\n\n\n\n\n\n\nSep 25, 2025\n\n\nMetacognition in Mathematics: Enhancing Learning Through Strategy and Reflection\n\n\nSuzanne Crifo (Duke University)\n\n\n\n\n\n\nApr 8, 2025\n\n\nMy Journey with Course Coordination\n\n\nCamryn Thompson (NC State Mathematics)\n\n\n\n\n\n\nMar 18, 2025\n\n\nGet SLO’ing\n\n\nErin Krupa (NC State College of Education)\n\n\n\n\n\n\nMar 4, 2025\n\n\nWhat Does an “A” in Math Really Mean?\n\n\nAdrian Kuhlman (NC State College of Education)\n\n\n\n\n\n\nNov 7, 2024\n\n\nTeam-based learning and mastery grading in linear algebra\n\n\nEric Hanson, NC State Mathematics\n\n\n\n\n\n\nOct 31, 2024\n\n\nIntegrating Research and Practice: The Development of Technology-based Learning Activities in Multivariable Calculus\n\n\nMegan Ryals (University of Virginia)\n\n\n\n\n\n\nMar 18, 2024\n\n\nA survey of Programs Preparing Graduate Students to Teach Undergraduate Mathematics\n\n\nEmily Braley (Johns Hopkins University) and Jack Bookman (Duke University)\n\n\n\n\n\n\nFeb 29, 2024\n\n\nDesmos Activity Builder\n\n\nMolly Fenn and Patty Clemons (NC State Mathematics)\n\n\n\n\n\n\nFeb 15, 2024\n\n\nAffect Graphing: Tool for understanding students’ confidence, emotion, and experience\n\n\nRani Satyam (Virginia Commonwealth University)\n\n\n\n\n\n\nFeb 1, 2024\n\n\nThe Development and Implementation of New Applied Math Curricula\n\n\nCatie Acitelli (Notre Dame)\n\n\n\n\n\n\nJan 25, 2024\n\n\nTools your students won’t graduate from\n\n\nEli Luberoff (Desmos Studio PBC)\n\n\n\n\n\n\nNov 30, 2023\n\n\nMoodle Quiz Workshop\n\n\nBevin Maultsby (NC State Mathematics)\n\n\n\n\n\n\nNov 2, 2023\n\n\nVideo recordings to complement, or substitute for, the first-year mathematics lecture: One lecturer’s journey\n\n\nMaria Meehan (University College Dublin)\n\n\n\n\n\n\nOct 26, 2023\n\n\nLightning Talks\n\n\nKylan Schatz, Luke Castle, Tiancheng Xue (NC State Mathematics)\n\n\n\n\n\n\nSep 28, 2023\n\n\nEngaging in Critical Transformation of Math Programs to Disrupt the System\n\n\nMatt Voigt (Clemson)\n\n\n\n\n\n\nSep 14, 2023\n\n\nKnowledge in Interaction: A Key to Promote Participatory Equity During Whole-Group Discussions\n\n\nSunghwan Byun (NC State College of Education)\n\n\n\n\n\n\nAug 31, 2023\n\n\nGradescope workshop\n\n\nMolly Fenn, Stepan Paul, Bevin Maultsby (NC State Mathematics)\n\n\n\n\n\n\nApr 20, 2023\n\n\nLightning talks\n\n\nSharon Lubkin, Laura Colmenarejo, Arvind Saibaba, Bevin Maultsby (NC State Mathematics)\n\n\n\n\n\n\nApr 13, 2023\n\n\nSpecifications-Based Grading in MA 225\n\n\nAshley Tharp (NC State Mathematics)\n\n\n\n\n\n\nDec 1, 2022\n\n\nWorkshop on Flipped and Hybrid Courses\n\n\nYan Shen, Bethany Smith, Bethanne Winzeler (NC State DELTA)\n\n\n\n\n\n\nNov 10, 2022\n\n\nOffice of Student Conduct Workshop\n\n\nBradley Davis (NC State Office of Student Conduct)\n\n\n\n\n\n\nOct 27, 2022\n\n\nLightning Talk\n\n\nIan Bunner, Ashley Tharp, Stepan Paul, Nathan Reading (NC State Mathematics)\n\n\n\n\n\n\nOct 6, 2022\n\n\nMATLAB Grader Workshop\n\n\nBevin Maultsby (NC State Mathematics)\n\n\n\n\n\n\nSep 29, 2022\n\n\nLearning and teaching through gestures\n\n\nLaura Colmenarejo (NC State Mathematics)\n\n\n\n\n\n\nSep 15, 2022\n\n\nThe role of the narrative in calculus\n\n\nPeter McGrath (NC State Mathematics)\n\n\n\n\n\n\nSep 8, 2022\n\n\nTest Writing Panel\n\n\nStepan Paul, Molly Fenn, Bevin Maultsby (NC State Mathematics)\n\n\n\n\n\n\nAug 25, 2022\n\n\nThe ADAPT Model: pedagogical choices for the new NC State Data Science Academy\n\n\nRachel Levy (NC State Data Science Academy)\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "North Carolina State Mathematics Teaching and Learning Seminar",
+    "section": "",
+    "text": "Scheduled talks will be listed below. Find past talks at archive.\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "sessions/2022-09-15-narrative-in-calculus.html",
+    "href": "sessions/2022-09-15-narrative-in-calculus.html",
+    "title": "The role of the narrative in calculus",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2022-09-15-narrative-in-calculus.html#abstract",
+    "href": "sessions/2022-09-15-narrative-in-calculus.html#abstract",
+    "title": "The role of the narrative in calculus",
+    "section": "Abstract",
+    "text": "Abstract\nI will describe—using anecdotes, excerpts from textbooks, and thought experiments—various approaches to creating a narrative voice when teaching a calculus class."
+  },
+  {
+    "objectID": "sessions/2022-09-08-test-writing-panel.html",
+    "href": "sessions/2022-09-08-test-writing-panel.html",
+    "title": "Test Writing Panel",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2022-09-08-test-writing-panel.html#abstract",
+    "href": "sessions/2022-09-08-test-writing-panel.html#abstract",
+    "title": "Test Writing Panel",
+    "section": "Abstract",
+    "text": "Abstract"
+  },
+  {
+    "objectID": "sessions/2024-10-31-megan-ryals.html",
+    "href": "sessions/2024-10-31-megan-ryals.html",
+    "title": "Integrating Research and Practice: The Development of Technology-based Learning Activities in Multivariable Calculus",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2024-10-31-megan-ryals.html#abstract",
+    "href": "sessions/2024-10-31-megan-ryals.html#abstract",
+    "title": "Integrating Research and Practice: The Development of Technology-based Learning Activities in Multivariable Calculus",
+    "section": "Abstract",
+    "text": "Abstract\nStudents often perceive Multivariable Calculus as a collection of disconnected ideas and approach problem solving in the course formulaically. Students need help from instructors in developing spatial reasoning and making connections between symbolic computations and graphical representations. In this talk I will share how I integrated results of research on students’ learning of differential calculus and recently acquired knowledge about CalcPlot3D and 3D-printed surfaces to transform my Multivariable Calculus classroom into a hands-on learning environment. You will have an opportunity to experience classroom learning activities using CalcPlot3D and 3D-printed surfaces as a student and will walk away with concrete examples of evidence-based approaches to using technology to support student learning. Specifically, we will examine approaches to teaching tangent planes, partial derivatives, and directional derivatives, and how to use CP3D and 3D printed surfaces to help students make strong mental connections between these."
+  },
+  {
+    "objectID": "sessions/2022-10-06-matlab-grader-workshop.html",
+    "href": "sessions/2022-10-06-matlab-grader-workshop.html",
+    "title": "MATLAB Grader Workshop",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2022-10-06-matlab-grader-workshop.html#abstract",
+    "href": "sessions/2022-10-06-matlab-grader-workshop.html#abstract",
+    "title": "MATLAB Grader Workshop",
+    "section": "Abstract",
+    "text": "Abstract\nWe will look at the brand new MATLAB Grader functionality in Moodle, featuring examples, tips and tricks, and a few drawbacks. Participants are encouraged to activate their MathWorks account first https://www.mathworks.com/, use your Unity credentials) and bring a laptop to experiment with. If you would like to be a student in a Moodle Project space to try some Grader problems during the session, please contact me bmaults@ncsu.edu so I can add you to the roster."
+  },
+  {
+    "objectID": "sessions/2022-08-25-data-science-academy-design-decisions.html",
+    "href": "sessions/2022-08-25-data-science-academy-design-decisions.html",
+    "title": "The ADAPT Model: pedagogical choices for the new NC State Data Science Academy",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2022-08-25-data-science-academy-design-decisions.html#abstract",
+    "href": "sessions/2022-08-25-data-science-academy-design-decisions.html#abstract",
+    "title": "The ADAPT Model: pedagogical choices for the new NC State Data Science Academy",
+    "section": "Abstract",
+    "text": "Abstract\nCome discuss your favorite course design principles and learn which ones are a part of the Data Science Academy ADAPT course model. The All-campus Data Science Accessible Project Based Teaching and Learning (ADAPT) model operationalizes the idea that at NC State, data science is for everyone. The 1-credit project-based courses have attracted undergraduates, graduate students, faculty and staff spanning all of the NC State colleges. Future study of the ADAPT model by a cohort of four 2-year postdocs will be supported by a $640K NSF grant, “Mentoring a Diverse Cohort of Postdoctoral Scholars in Data Science Education Research.”"
+  },
+  {
+    "objectID": "sessions/2022-11-10-student-conduct-workshop.html",
+    "href": "sessions/2022-11-10-student-conduct-workshop.html",
+    "title": "Office of Student Conduct Workshop",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2022-11-10-student-conduct-workshop.html#abstract",
+    "href": "sessions/2022-11-10-student-conduct-workshop.html#abstract",
+    "title": "Office of Student Conduct Workshop",
+    "section": "Abstract",
+    "text": "Abstract\nThe learning session will focus on the general operations of the Office of Student Conduct. The presenter will discuss the key procedures associated with academic misconduct cases, including proper adjudication techniques for faculty and how to properly report cases to OSC. The presenter will also provide best practices for promoting academic integrity in courses and how to confront possible violations of the Code of Student Conduct."
+  },
+  {
+    "objectID": "sessions/2025-10-16-new-federal-law.html",
+    "href": "sessions/2025-10-16-new-federal-law.html",
+    "title": "Are you ready for the new federal law?",
+    "section": "",
+    "text": "Recording\nSlides"
+  },
+  {
+    "objectID": "sessions/2025-10-16-new-federal-law.html#abstract",
+    "href": "sessions/2025-10-16-new-federal-law.html#abstract",
+    "title": "Are you ready for the new federal law?",
+    "section": "Abstract",
+    "text": "Abstract\nBeginning April 2026, all digital course materials at large public universities will be required to meet WCAG 2.1 Level AA accessibility standards under the Americans with Disabilities Act. This means that the way we currently share PDFs, slides, videos, and other digital resources may no longer be compliant. Documents created with LaTeX are almost never accessible. If you have any online material for your class, even just a syllabus, this law affects you."
+  },
+  {
+    "objectID": "sessions/2022-09-29-teaching-through-gestures.html",
+    "href": "sessions/2022-09-29-teaching-through-gestures.html",
+    "title": "Learning and teaching through gestures",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2022-09-29-teaching-through-gestures.html#abstract",
+    "href": "sessions/2022-09-29-teaching-through-gestures.html#abstract",
+    "title": "Learning and teaching through gestures",
+    "section": "Abstract",
+    "text": "Abstract\nIn this talk, I want to present some of the ideas behind the theory of embodied cognition, which is a theory that tries to understand how our teaching and learning experiences are affected by our gestures. I will share how research is done in Math Education and my experience collaborating on a project lead by Hortensia Soto (Colorado State University) related to the geometry of the Cauchy-Riemann equations."
+  },
+  {
+    "objectID": "sessions/2024-02-15-rani-satyam.html",
+    "href": "sessions/2024-02-15-rani-satyam.html",
+    "title": "Affect Graphing: Tool for understanding students’ confidence, emotion, and experience",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2024-02-15-rani-satyam.html#abstract",
+    "href": "sessions/2024-02-15-rani-satyam.html#abstract",
+    "title": "Affect Graphing: Tool for understanding students’ confidence, emotion, and experience",
+    "section": "Abstract",
+    "text": "Abstract\nAffect (e.g., beliefs, attitudes, emotions) plays a crucial role in mathematics learning, but reliance on verbal and written responses (from surveys, interviews, etc.) can limit students’ expression of their affective states. As a complement to existing methods, we explore how asking students to graph their affect can be used to study their mathematical experiences. I present data from different studies that used graphing as a tool to help students represent, stimulate recall, and reflect on their affect. In each, students were asked to draw their perception of an affective construct, in particular confidence or intensity of emotion, against time. The affordances of graphing include reduced dependence on verbal data, temporal ordering of participants’ recollections, explicit representation of change over time, and the creation of objects (the graph) for discussion. These studies show the benefits of well-structured graphing as a tool to help students communicate their experience, for use in research as well as teaching. I provide a short guide on how to use graphing in one’s own classroom and existing tools."
+  },
+  {
+    "objectID": "sessions/2023-04-20-lightning-talks.html",
+    "href": "sessions/2023-04-20-lightning-talks.html",
+    "title": "Lightning talks",
+    "section": "",
+    "text": "Once per semester, the Teaching and Learning Seminar will host 10-minute “lightning talks” in which 4 graduate students and/or faculty members will talk about some element of their teaching that they’d like to share. This may be a cool example you came up with for a class you are teaching, an innovative teaching technique or application of technology, an element of course policy or structure that you think has worked well, or anything else.\nThis session’s talks:\n\nSharon Lubkin: The Laptop Cart\nLaura Colmenarejo: “Todxs cuentan”\nArvind Saibaba: Incorporating applications in teaching\nBevin Maultsby: My Favorite Moodle Trick"
+  },
+  {
+    "objectID": "sessions/2023-04-20-lightning-talks.html#abstract",
+    "href": "sessions/2023-04-20-lightning-talks.html#abstract",
+    "title": "Lightning talks",
+    "section": "",
+    "text": "Once per semester, the Teaching and Learning Seminar will host 10-minute “lightning talks” in which 4 graduate students and/or faculty members will talk about some element of their teaching that they’d like to share. This may be a cool example you came up with for a class you are teaching, an innovative teaching technique or application of technology, an element of course policy or structure that you think has worked well, or anything else.\nThis session’s talks:\n\nSharon Lubkin: The Laptop Cart\nLaura Colmenarejo: “Todxs cuentan”\nArvind Saibaba: Incorporating applications in teaching\nBevin Maultsby: My Favorite Moodle Trick"
+  },
+  {
+    "objectID": "sessions/2024-02-29-molly-fenn-patty-clemons.html",
+    "href": "sessions/2024-02-29-molly-fenn-patty-clemons.html",
+    "title": "Desmos Activity Builder",
+    "section": "",
+    "text": "Recording\nSlides"
+  },
+  {
+    "objectID": "sessions/2024-02-29-molly-fenn-patty-clemons.html#abstract",
+    "href": "sessions/2024-02-29-molly-fenn-patty-clemons.html#abstract",
+    "title": "Desmos Activity Builder",
+    "section": "Abstract",
+    "text": "Abstract\nDesmos Activity Builder is an online tool that can be used in a variety of ways in and out of the classroom. It can be used to introduce concepts or as a learning assessment during or outside of class. In this session we will explore some ways to use Desmos activities in your classroom. We will share some activities that we found useful for our classes and give some time for you to try developing your own. Please bring a device to this session, if possible."
+  },
+  {
+    "objectID": "sessions/2025-09-25-metacognition-in-mathematics.html",
+    "href": "sessions/2025-09-25-metacognition-in-mathematics.html",
+    "title": "Metacognition in Mathematics: Enhancing Learning Through Strategy and Reflection",
+    "section": "",
+    "text": "Developing strong mathematical skills requires more than just practice—it requires an awareness of how we learn. Metacognitive strategies help students monitor their understanding, refine their problem-solving approaches, and improve long-term retention. In this talk, I will share insights from my experience working in the undergraduate learning center on campus, highlighting practical strategies that benefit both students and educators. We will explore problem-solving techniques, a framework for approaching STEM courses, and reflection practices, along with ways to integrate them into coursework. Participants will reflect on the role of metacognition in their own learning or teaching and leave with small, actionable changes that can have a significant impact."
+  },
+  {
+    "objectID": "sessions/2025-09-25-metacognition-in-mathematics.html#abstract",
+    "href": "sessions/2025-09-25-metacognition-in-mathematics.html#abstract",
+    "title": "Metacognition in Mathematics: Enhancing Learning Through Strategy and Reflection",
+    "section": "",
+    "text": "Developing strong mathematical skills requires more than just practice—it requires an awareness of how we learn. Metacognitive strategies help students monitor their understanding, refine their problem-solving approaches, and improve long-term retention. In this talk, I will share insights from my experience working in the undergraduate learning center on campus, highlighting practical strategies that benefit both students and educators. We will explore problem-solving techniques, a framework for approaching STEM courses, and reflection practices, along with ways to integrate them into coursework. Participants will reflect on the role of metacognition in their own learning or teaching and leave with small, actionable changes that can have a significant impact."
+  },
+  {
+    "objectID": "sessions/2024-01-25-eli-luberoff.html",
+    "href": "sessions/2024-01-25-eli-luberoff.html",
+    "title": "Tools your students won’t graduate from",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2025-03-18-erin-krupa.html",
+    "href": "sessions/2025-03-18-erin-krupa.html",
+    "title": "Get SLO’ing",
+    "section": "",
+    "text": "Erin Krupa is an Associate Professor of Mathematics Education who enjoys teaching MA 408: Foundations of Euclidean Geometry in the Fall and working with PEP students teaching the class in the Spring. She is also part of a national collaborative of mathematicians and mathematics educators who have created Student Learning Objectives (SLOs) for undergraduate geometry courses. This seminar will present an exploration on where, how, and to what degree the SLOs are incorporated into MA 408. In addition, a reflection will be provided about changes made to the course based on the shared work of the national community and assessment data about NCSU students’ performance relative to national averages."
+  },
+  {
+    "objectID": "sessions/2025-03-18-erin-krupa.html#abstract",
+    "href": "sessions/2025-03-18-erin-krupa.html#abstract",
+    "title": "Get SLO’ing",
+    "section": "",
+    "text": "Erin Krupa is an Associate Professor of Mathematics Education who enjoys teaching MA 408: Foundations of Euclidean Geometry in the Fall and working with PEP students teaching the class in the Spring. She is also part of a national collaborative of mathematicians and mathematics educators who have created Student Learning Objectives (SLOs) for undergraduate geometry courses. This seminar will present an exploration on where, how, and to what degree the SLOs are incorporated into MA 408. In addition, a reflection will be provided about changes made to the course based on the shared work of the national community and assessment data about NCSU students’ performance relative to national averages."
+  },
+  {
+    "objectID": "sessions/2023-11-02-maria-meehan.html",
+    "href": "sessions/2023-11-02-maria-meehan.html",
+    "title": "Video recordings to complement, or substitute for, the first-year mathematics lecture: One lecturer’s journey",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "sessions/2023-11-02-maria-meehan.html#abstract",
+    "href": "sessions/2023-11-02-maria-meehan.html#abstract",
+    "title": "Video recordings to complement, or substitute for, the first-year mathematics lecture: One lecturer’s journey",
+    "section": "Abstract",
+    "text": "Abstract\nAs part of a professional development project aimed at engaging in the Discipline of Noticing as conceptualised by John Mason, some colleagues and I wrote and shared brief-but-vivid accounts of our practice. Evident in these accounts is the catalyst for the subsequent change in my practice of introducing short, pre-recorded videos to complement, or substitute for, live lectures in my large, first-year Mathematics for Business course. In this talk I will discuss how I noticed and challenged a core belief I had held as a mathematics lecturer through keeping and examining the accounts; the subsequent change of practice and research conducted on students’ preferences for live lecture and/or recordings in this course; and, some unintended consequences of this change, as evidenced through the accounts. I finish by briefly reflecting on what role should/could a mathematician-turned-math education researcher play in supporting mathematician colleagues in decisions around the use of recordings in their courses."
+  }
+]
