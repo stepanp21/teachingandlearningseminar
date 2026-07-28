@@ -1,0 +1,17 @@
+---
+title: "My Journey with Course Coordination"
+subtitle: "Camryn Thompson (NC State Mathematics)"
+date: 2025-04-08
+description: "Tuesday, 3:00–4:00 p.m. · SAS 4201 and Zoom"
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/2DEbPh1d3ZY_mGsuH6V2tU7Zua0rL7e9n3SwDxKVY3VBPVMgr-b8TuamTjugnSfG.kfYQojwPPBAhEg9C)
+- [Slides](https://docs.google.com/presentation/d/1rHVLAQJRdd5_SWPn4x03Klu8_eRgk4HEHW2pGlye6ms/edit?usp=sharing)
+
+## Abstract
+
+Camryn Thompson is a second-year PhD student in the pure mathematics program at NCState. However, during her time as a master’s student, she was involved with math education research. Camryn has had a unique perspective on course coordination, through both the lens of an instructor and the lens of a researcher. In this talk, she will guide us through her journey and discuss what she has learned through being an instructor of coordinated courses, reading literature, and conducting research on course coordination.
+
+<!-- Source: NC State Mathematics calendar. -->

@@ -1,0 +1,12 @@
+---
+title: "Tools your students won't graduate from"
+subtitle: "Eli Luberoff (Desmos Studio PBC)"
+date: 2024-01-25
+description: "Requested start time: 3:15 p.m."
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/8WDFBxWZA1h73V-i4Gk9iopzWH4M_Ru_HVsVy-56xC2Ke0xybWTtUEYqp1SLvUzF.SktNTzhUfb8S_X1p)
+
+<!-- Source: Scheduled Seminars.xlsx, "Spring 2024", row 4. -->

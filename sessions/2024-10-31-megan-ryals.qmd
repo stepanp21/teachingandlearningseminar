@@ -1,0 +1,16 @@
+---
+title: "Integrating Research and Practice: The Development of Technology-based Learning Activities in Multivariable Calculus"
+subtitle: "Megan Ryals (University of Virginia)"
+date: 2024-10-31
+description: "Thursday, 3:00–4:00 p.m. · SAS 4201"
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65c00e46-6434-447d-92b2-b21b000c9ace)
+
+## Abstract
+
+Students often perceive Multivariable Calculus as a collection of disconnected ideas and approach problem solving in the course formulaically.  Students need help from instructors in developing spatial reasoning and making connections between symbolic computations and graphical representations. In this talk I will share how I integrated results of research on students’ learning of differential calculus and recently acquired knowledge about CalcPlot3D and 3D-printed surfaces to transform my Multivariable Calculus classroom into a hands-on learning environment. You will have an opportunity to experience classroom learning activities using CalcPlot3D and 3D-printed surfaces as a student and will walk away with concrete examples of evidence-based approaches to using technology to support student learning. Specifically, we will examine approaches to teaching tangent planes, partial derivatives, and directional derivatives, and how to use CP3D and 3D printed surfaces to help students make strong mental connections between these.
+
+<!-- Source: NC State Mathematics calendar. -->

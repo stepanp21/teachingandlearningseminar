@@ -1,0 +1,16 @@
+---
+title: "Desmos Activity Builder"
+subtitle: "Molly Fenn and Patty Clemons (NC State Mathematics)"
+date: 2024-02-29
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/IeTfpCEFTWYc5OcIK6gKkdHr-vsS4aOgPagu3r0WE6nUvvaexExTwNRn-wY1-7Rp.Chpx5JWwXDfzaCX7)
+- [Slides](https://docs.google.com/document/d/1g4JVvaGg8N5E9kdAD8S1jqWPpc9XQ_kL8162g7i9x-I/edit)
+
+## Abstract
+
+Desmos Activity Builder is an online tool that can be used in a variety of ways in and out of the classroom. It can be used to introduce concepts or as a learning assessment during or outside of class. In this session we will explore some ways to use Desmos activities in your classroom. We will share some activities that we found useful for our classes and give some time for you to try developing your own. Please bring a device to this session, if possible.
+
+<!-- Source: Scheduled Seminars.xlsx, "Spring 2024", row 9. -->

@@ -1,0 +1,15 @@
+---
+title: "The role of the narrative in calculus"
+subtitle: "Peter McGrath (NC State Mathematics)"
+date: 2022-09-15
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/5F3btJj1D6od5ewnS7dyvjsTvZgFwQDSPdkt5sNowdk1lN4rzaTP-zsgWnY9X4IF.IsoWr4VWWO96tkdn)
+
+## Abstract
+
+I will describe---using anecdotes, excerpts from textbooks, and thought experiments---various approaches to creating a narrative voice when teaching a calculus class.
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2022", row 5. Approximate attendance: 9. -->

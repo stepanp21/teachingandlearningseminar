@@ -1,0 +1,16 @@
+---
+title: "Affect Graphing: Tool for understanding students’ confidence, emotion, and experience"
+subtitle: "Rani Satyam (Virginia Commonwealth University)"
+date: 2024-02-15
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/cpVSjJcSG_usgCOFL2K2WKr5IfU9nzguMWycmqohy-iF17N1GbHFrwb5ktPW6byT.AjIcwFjIBbnS6kYF)
+
+## Abstract
+
+Affect (e.g., beliefs, attitudes, emotions) plays a crucial role in mathematics learning, but reliance on verbal and written responses (from surveys, interviews, etc.) can limit students’ expression of their affective states. As a complement to existing methods, we explore how asking students to graph their affect can be used to study their mathematical experiences. I present data from different studies that used graphing as a tool to help students represent, stimulate recall, and reflect on their affect. In each, students were asked to draw their perception of an affective construct, in particular confidence or intensity of emotion, against time. The affordances of graphing include reduced dependence on verbal data, temporal ordering of participants’ recollections, explicit representation of change over time, and the creation of objects (the graph) for discussion. These studies show the benefits of well-structured graphing as a tool to help students communicate their experience, for use in research as well as teaching. I provide a short guide on how to use graphing in one's own classroom and existing tools.
+
+
+<!-- Source: Scheduled Seminars.xlsx, "Spring 2024", row 7. -->

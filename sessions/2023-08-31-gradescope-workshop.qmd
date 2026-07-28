@@ -1,0 +1,15 @@
+---
+title: "Gradescope workshop"
+subtitle: "Molly Fenn, Stepan Paul, Bevin Maultsby (NC State Mathematics)"
+date: 2023-08-31
+status: past
+categories: [workshop]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/JEpv8V1pT32jIL_eHtTShJ3LF0dgdDmKIIlen9tgB4zbzE4eDpLk1ZRvVFFCMd1I.1WzTmJ4HLo2zARQF)
+
+## Abstract
+
+The speakers will talk about how to use Gradescope to streamline the grading process for assignments and exams. No experience with Gradescope is assumed, but the speakers will share tips that will benefit experienced users as well as newbies. Participants will be able to join a demo course to experience Gradescope from both the student and instructor side. This talk will be recorded.
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2023", row 3. Approximate attendance: 20. -->

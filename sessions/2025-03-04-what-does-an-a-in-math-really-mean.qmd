@@ -1,0 +1,16 @@
+---
+title: 'What Does an "A" in Math Really Mean?'
+subtitle: "Adrian Kuhlman (NC State College of Education)"
+date: 2025-03-04
+description: "Tuesday, 3:00–4:00 p.m. · SAS 4201"
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/AhM710Xyx5keWDOxeFrpTAHDwgzqAHxiN6MxTKPK1a4_iNggQ6gYXtSnEcLRMAiv.0KmYU9i56GoKhwL-)
+
+## Abstract
+
+Does earning an "A" in a college math course indicate mastery? Does it guarantee success in the next course? Or is it just a reflection of point accumulation instead of meaningful understanding? Traditional grading systems often fail to clearly reflect what students actually understand, rewarding partial credit and strategic point-chasing over authentic learning. In this seminar, we’ll explore specifications grading, an alternative model that attempts to shift the focus from grades back to learning. I will share how I implemented this approach in my college-level Calculus I course, using clear learning objectives, flexible assessment opportunities, and a grading system that puts the emphasis back on student learning. We’ll discuss the benefits, challenges, and practical strategies for adopting specifications grading in college mathematics courses. If grades don’t always reflect learning, how should we measure student success? Join us in rethinking what grading can be!
+
+<!-- Source: NC State Mathematics calendar. -->

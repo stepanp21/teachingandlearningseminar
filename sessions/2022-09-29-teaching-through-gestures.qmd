@@ -1,0 +1,15 @@
+---
+title: "Learning and teaching through gestures"
+subtitle: "Laura Colmenarejo (NC State Mathematics)"
+date: 2022-09-29
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/RIgYOD3LKtP0AQRy0OgOcoLrmNTLWC-ZdsirAO_bI3atp33ItNEa8-k74ghtiCBr.gJC7JLvU_dIMKsv0)
+
+## Abstract
+
+In this talk, I want to present some of the ideas behind the theory of embodied cognition, which is a theory that tries to understand how our teaching and learning experiences are affected by our gestures. I will share how research is done in Math Education and my experience collaborating on a project lead by Hortensia Soto (Colorado State University) related to the geometry of the Cauchy-Riemann equations.
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2022", row 7. Approximate attendance: 10. -->

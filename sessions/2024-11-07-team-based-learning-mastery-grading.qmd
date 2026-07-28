@@ -1,0 +1,16 @@
+---
+title: "Team-based learning and mastery grading in linear algebra"
+subtitle: "Eric Hanson, NC State Mathematics"
+date: 2024-11-07
+description: "Thursday, 3:00–4:00 p.m. · SAS 4201"
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/gx34hERRGmk99U4aZeb9cx1iKIbU2aGhSvVn9gg1U812CvK4sXLCb0PcpkrTxm6M.Ccq6E5vrZXiN5bdt)
+
+## Abstract
+
+Team-based learning is a type of flipped classroom, where homework is replaced with reading assignments and lectures are replaced with team problem solving. Mastery grading (also called outcomes-based assessment) replaces high-stakes exams with more frequent low-stakes assessments. Problems on these assessments are graded credit/no credit, and students earn points based on the number of skills for which they eventually earn credit. In this seminar, I'll say more about these pedagogical techniques and explain how I used them in my MA 305 course last spring.
+
+<!-- Source: NC State Mathematics calendar. -->

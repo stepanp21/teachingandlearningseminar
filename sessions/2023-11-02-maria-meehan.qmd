@@ -1,0 +1,16 @@
+---
+title: "Video recordings to complement, or substitute for, the first-year mathematics lecture: One lecturer’s journey"
+subtitle: "Maria Meehan (University College Dublin)"
+date: 2023-11-02
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/WtjOeBzU6koSLbtFoLgIEgkcVa7xB3JGtYJvCOSE4BsPpifexFJCxcRhuNtFWsJL.8ZPrK6Evr8IAn0nD)
+
+## Abstract
+
+As part of a professional development project aimed at engaging in the Discipline of Noticing as conceptualised by John Mason, some colleagues and I wrote and shared brief-but-vivid accounts of our practice. Evident in these accounts is the catalyst for the subsequent change in my practice of introducing short, pre-recorded videos to complement, or substitute for, live lectures in my large, first-year Mathematics for Business course. In this talk I will discuss how I noticed and challenged a core belief I had held as a mathematics lecturer through keeping and examining the accounts; the subsequent change of practice and research conducted on students’ preferences for live lecture and/or recordings in this course; and, some unintended consequences of this change, as evidenced through the accounts. I finish by briefly reflecting on what role should/could a mathematician-turned-math education researcher play in supporting mathematician colleagues in decisions around the use of recordings in their courses.
+
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2023", row 12. -->

@@ -1,0 +1,13 @@
+---
+title: "The Development and Implementation of New Applied Math Curricula"
+subtitle: "Catie Acitelli (Notre Dame)"
+date: 2024-02-01
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/kRNZ4a5SdGDAY7K0_oaLzaKc31LcPcTk2vEnyDnA7HnpCKVrxXH3wocczBjiU7qL.KDxjImF_SmHoYhqC)
+
+Computational and applied mathematics are growing in popularity and relevance.  As students prepare for either the job market or graduate school, it is increasingly more important that their mathematics courses reflect the changing landscape of the field.  In this talk, I will detail my development and initial implementation of two new courses: Applied Calculus I and Mathematical Cryptography with Python.  Traditionally, Calculus is taught using the “paper-pencil” method with the potential use of a graphing calculator as an enhancement tool.  In contrast, students in my Applied Calculus I course use SageMath, a Python-based computer algebra system, to explore patterns, properties, and applications, allowing them to ultimately dive deeper into the content.  SageMath is also a gentle introduction to computational mathematics that helps to bridge the algebraic achievement gap and provide students with a visualization of many important concepts in the course.  I will discuss how I designed the course to allow the practical application of classic concepts to complement the traditional theoretical background found in many Calculus courses.  Quantum computing is also becoming more prevalent, and one of its most relevant applications is to the field of Cryptography.  My Cryptography course allows students to explore the many facets of the changing field while strengthening their computer programming and computational abilities.  In this course, students use Python to implement various cryptosystems, digital signature schemes, and zero knowledge proof protocol after learning the mathematical background of them.  My talk will outline the course syllabus and structure, in-class content delivery, and projects and assessments.  Additionally, I will share what I have learned during the first implementations of each course - what worked and what didn’t - and how I plan to update the courses for future semesters.  Finally, I will highlight the various considerations that need to be made when designing new courses in applied mathematics.
+
+<!-- Source: Scheduled Seminars.xlsx, "Spring 2024", row 5. -->

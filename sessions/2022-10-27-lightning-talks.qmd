@@ -1,0 +1,20 @@
+---
+title: "Lightning Talk"
+subtitle: Ian Bunner, Ashley Tharp, Stepan Paul, Nathan Reading (NC State Mathematics)
+date: 2022-10-27
+status: past
+categories: [lightning-talks]
+---
+
+## Abstract
+
+Once per semester, the Teaching and Learning Seminar will host 10-minute "lightning talks" in which 4 graduate students and/or faculty members will talk about some element of their teaching that they'd like to share. This may be a cool example you came up with for a class you are teaching, an innovative teaching technique or application of technology, an element of course policy or structure that you think has worked well, or anything else
+
+This session's talks:
+
+- Ian Bunner: TeX-hacking for creating instructional materials
+- Ashley Tharp: Scaffolding
+- Stepan Paul: Double integrals without volume
+- Nathan Reading: How WebAssign lies to students
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2022", row 11. Approximate attendance: 13. -->

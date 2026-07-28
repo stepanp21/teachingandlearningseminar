@@ -1,0 +1,14 @@
+---
+title: "Metacognition in Mathematics: Enhancing Learning Through Strategy and Reflection"
+subtitle: "Suzanne Crifo (Duke University)"
+date: 2025-09-25
+description: "Thursday, 3:00–4:00 p.m. · SAS 4201 and Zoom"
+status: past
+categories: [talk]
+---
+
+## Abstract
+
+Developing strong mathematical skills requires more than just practice—it requires an awareness of how we learn. Metacognitive strategies help students monitor their understanding, refine their problem-solving approaches, and improve long-term retention. In this talk, I will share insights from my experience working in the undergraduate learning center on campus, highlighting practical strategies that benefit both students and educators. We will explore problem-solving techniques, a framework for approaching STEM courses, and reflection practices, along with ways to integrate them into coursework. Participants will reflect on the role of metacognition in their own learning or teaching and leave with small, actionable changes that can have a significant impact.
+
+<!-- Source: NC State Mathematics calendar. -->

@@ -1,0 +1,19 @@
+---
+title: "North Carolina State Mathematics Teaching and Learning Seminar"
+
+listing:
+  - id: upcoming-sessions
+    contents: sessions
+    type: default
+    fields: [date, title, subtitle, description]
+    include:
+      status: upcoming
+    sort: "date asc"
+    sort-ui: false
+    filter-ui: false
+---
+
+Scheduled talks will be listed below. Find past talks at [archive](archive.html).
+
+:::{#upcoming-sessions}
+:::

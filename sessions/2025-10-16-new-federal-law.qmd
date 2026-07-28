@@ -1,0 +1,17 @@
+---
+title: "Are you ready for the new federal law?"
+subtitle: "Bevin Maultsby (NC State Mathematics)"
+date: 2025-10-16
+description: "Thursday, 3:00–4:00 p.m. · SAS 4201 and Zoom"
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/AHC4w8ZCO-7rfg77kfw2FVVxeQWvXUe0ZgWYt92ImJz5ivNGqtwLNr5SWVmrZoXx.clEFq8eIgqxOVJ1k)
+- [Slides](https://www.canva.com/design/DAGzWYbyhxs/vKaNRVUP4qgamkoOzHsrPw/edit)
+
+## Abstract
+
+Beginning April 2026, all digital course materials at large public universities will be required to meet WCAG 2.1 Level AA accessibility standards under the Americans with Disabilities Act. This means that the way we currently share PDFs, slides, videos, and other digital resources may no longer be compliant. Documents created with LaTeX are almost never accessible. <u>If you have any online material for your class, even just a syllabus, this law affects you.</u>
+
+<!-- Source: NC State Mathematics calendar. -->

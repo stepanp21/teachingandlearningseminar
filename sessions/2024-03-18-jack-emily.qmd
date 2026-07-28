@@ -1,0 +1,12 @@
+---
+title: "A survey of Programs Preparing Graduate Students to Teach Undergraduate Mathematics"
+subtitle: "Emily Braley (Johns Hopkins University) and Jack Bookman (Duke University)"
+date: 2024-03-18
+description: "Monday, Mar 18, 3pm · SAS 3282"
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/W7bALzYj1aGeP18cSGVM4YimQbQ-3Z3zyvNIHpCoJxTmBqysgOA-2mflSSLJCq5O.LY0UobwNOdY9j21R)
+
+<!-- Source: Scheduled Seminars.xlsx, "Spring 2024", row 12. -->

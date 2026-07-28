@@ -1,0 +1,16 @@
+---
+title: "Test Writing Panel"
+subtitle: "Stepan Paul, Molly Fenn, Bevin Maultsby (NC State Mathematics)"
+date: 2022-09-08
+status: past
+categories: [panel]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/TWYLz_ruMTnQ6Z-dobEOH-K7HjoK2RkOrYh8Ykt6aYR_v-vvELrNQ4fWswWOx6Hw.Zwtbj8zeAekdewed)
+
+## Abstract
+
+
+
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2022", row 4. Approximate attendance: 15. -->

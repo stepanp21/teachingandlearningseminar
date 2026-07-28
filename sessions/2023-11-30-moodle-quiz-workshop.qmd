@@ -1,0 +1,11 @@
+---
+title: "Moodle Quiz Workshop"
+subtitle: "Bevin Maultsby (NC State Mathematics)"
+date: 2023-11-30
+status: past
+categories: [workshop]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/U4lFhqAmm3U3Ph9hKGz_CtxdieNYBWzVPFDBSpBVS4amZjs2iTDdtKwU3IkHA2oC.rLbxRwxcnUryCOE6)
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2023", row 16. -->

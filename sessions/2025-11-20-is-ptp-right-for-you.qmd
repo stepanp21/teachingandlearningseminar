@@ -1,0 +1,17 @@
+---
+title: "Is PTP Right for You? Insights and Experiences from Former Fellows"
+subtitle: >-
+  Panel with Alex Betz (NC State Mathematics), Tim Ablondi (Yale University), Rachel Morris
+  (Concordia University), Bryson Kagy (Texas State University), and Sarah
+  Strikwerda (University of Wisconsin–Madison)
+date: 2025-11-20
+description: "Thursday, 3:00–4:00 p.m. · Zoom"
+status: past
+categories: [panel]
+---
+
+## Abstract
+
+Preparing the Professoriate (PTP) is one of NC State’s long-running professional-development programs for late-stage doctoral students and postdoctoral scholars, designed to provide an immersive mentoring, teaching, and future faculty preparation experience. This panel brings together five former PTP fellows, including Alex Betz (NCSU, currently on the job market), Tim Ablondi (Lecturer, Yale University), Rachel Morris (Postdoctoral Fellow, Concordia University), Bryson Kagy (Lecturer, Texas State University), and Sarah Strikwerda (RTG Postdoctoral Fellow, University of Wisconsin–Madison). Panelists will discuss how PTP influenced their teaching, mentoring, and transition into academic roles, while also offering candid reflections on what aspects of the program proved most helpful, what they might have approached differently, and how the experience factored into their job-market trajectories. Attendees will be able to ask questions, hear a range of perspectives, and consider whether the program’s structure and commitments align with their own professional goals.
+
+<!-- Source: NC State Mathematics calendar. -->

@@ -1,0 +1,17 @@
+---
+title: "Lightning Talks"
+subtitle: "Kylan Schatz, Luke Castle, Tiancheng Xue (NC State Mathematics)"
+date: 2023-10-26
+status: past
+categories: [lightning-talks]
+---
+
+## Abstract
+
+Once per semester, the Teaching and Learning Seminar will host 10-minute "lightning talks" in which graduate students and/or faculty members will talk about some element of their teaching that they'd like to share. This may be a cool example you came up with for a class you are teaching, an innovative teaching technique or application of technology, an element of course policy or structure that you think has worked well, or anything else. This session we will have:
+
+- Kylan Schatz: ChatGPT as a Tool for Teaching and Reflection
+- Luke Castle: Group Projects in Finite Math
+- Tiancheng Xue: Inquiry-Based Learning
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2023", row 11. -->

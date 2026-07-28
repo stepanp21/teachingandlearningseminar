@@ -1,0 +1,16 @@
+---
+title: "Workshop on Flipped and Hybrid Courses"
+subtitle: "Yan Shen, Bethany Smith, Bethanne Winzeler (NC State DELTA)"
+date: 2022-12-01
+status: past
+categories: [workshop]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/_OTTBqOmv_NEyUS-3-2cWPXfkWv8dNR8J-grbMqRVUK64UKE8i7QZRK9ExmgKto_.Ta-8V8sfiaQwA5fQ)
+- [Slides](https://docs.google.com/presentation/d/1sA8iLvxfgCVzlxcMY_kJ490r7IH0y2AAfOP0s3L7wFw/edit?usp=share_link)
+
+## Abstract
+
+DELTA staff will share about a course design framework and instructional tools for blended/flipped teaching and learning, as well as other teaching resources. Supported by literature in instructional design and educational psychology, the framework has been applied and improved through DELTA Grant course design projects over the past eight years, including two math courses (MA 231 and MA 111). We will introduce a newly launched Moodle Roadmap tool that can visualize the course structure based on the framework and help students monitor their progress during the course. We will share about tools available at NC State for delivering content and assessing student learning (e.g., Panopto, Playposit, H5P, Quiz tools) in blended/flipped courses. We will also share teaching resources for enhancing your course quality, such as the Quick Start Course Shell, Syllabus Template, Teaching Resources Site, upcoming workshops and DELTA Grant opportunities. Instructors are welcome to ask questions during or at the end of the presentation.
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2022", row 16. Approximate attendance: 12. -->

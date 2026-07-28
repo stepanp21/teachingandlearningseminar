@@ -1,0 +1,21 @@
+---
+title: "Lightning talks"
+subtitle: "Sharon Lubkin, Laura Colmenarejo, Arvind Saibaba, Bevin Maultsby (NC State Mathematics)"
+
+date: 2023-04-20
+status: past
+categories: [lightning-talks]
+---
+
+## Abstract
+
+Once per semester, the Teaching and Learning Seminar will host 10-minute "lightning talks" in which 4 graduate students and/or faculty members will talk about some element of their teaching that they'd like to share. This may be a cool example you came up with for a class you are teaching, an innovative teaching technique or application of technology, an element of course policy or structure that you think has worked well, or anything else.
+
+This session's talks:
+
+- Sharon Lubkin: The Laptop Cart
+- Laura Colmenarejo: "Todxs cuentan"
+- Arvind Saibaba: Incorporating applications in teaching
+- Bevin Maultsby: My Favorite Moodle Trick
+
+<!-- Source: Scheduled Seminars.xlsx, "Spring 2023", row 5. -->

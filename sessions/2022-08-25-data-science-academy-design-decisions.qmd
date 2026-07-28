@@ -1,0 +1,15 @@
+---
+title: "The ADAPT Model: pedagogical choices for the new NC State Data Science Academy"
+subtitle: "Rachel Levy (NC State Data Science Academy)"
+date: 2022-08-25
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04f1d135-df81-414d-a7d9-aeff011c14d4)
+
+## Abstract
+
+Come discuss your favorite course design principles and learn which ones are a part of the Data Science Academy ADAPT course model.  The All-campus Data Science Accessible Project Based Teaching and Learning (ADAPT) model operationalizes the idea that at NC State, data science is for everyone.  The 1-credit project-based courses have attracted undergraduates, graduate students, faculty and staff spanning all of the NC State colleges. Future study of the ADAPT model by a cohort of four 2-year postdocs will be supported by a $640K NSF grant, "Mentoring a Diverse Cohort of Postdoctoral Scholars in Data Science Education Research."
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2022", row 2. -->

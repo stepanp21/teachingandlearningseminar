@@ -1,0 +1,14 @@
+---
+title: "MATLAB Grader Workshop"
+subtitle: "Bevin Maultsby (NC State Mathematics)"
+date: 2022-10-06
+status: past
+categories: [workshop]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/4BDu95mp8vL_rMYBR4ReGSuCv0_GaWuqkJjj2V_XmeBOGboOrONHDLoDOjW-sJ0s.pTVdI0MRKvZCfNPZ)
+
+## Abstract
+
+We will look at the brand new MATLAB Grader functionality in Moodle, featuring examples, tips and tricks, and a few drawbacks. Participants are encouraged to activate their MathWorks account first [https://www.mathworks.com/](https://www.mathworks.com/), use your Unity credentials) and bring a laptop to experiment with. If you would like to be a student in a Moodle Project space to try some Grader problems during the session, please contact me [bmaults@ncsu.edu](mailto:bmaults@ncsu.edu) so I can add you to the roster.
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2022", row 8. -->

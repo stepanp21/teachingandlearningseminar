@@ -1,0 +1,14 @@
+---
+title: "Get SLO'ing"
+subtitle: "Erin Krupa (NC State College of Education)"
+date: 2025-03-18
+description: "Tuesday, 3:00–4:00 p.m. · SAS 4201"
+status: past
+categories: [talk]
+---
+
+## Abstract
+
+Erin Krupa is an Associate Professor of Mathematics Education who enjoys teaching MA 408: Foundations of Euclidean Geometry in the Fall and working with PEP students teaching the class in the Spring. She is also part of a national collaborative of mathematicians and mathematics educators who have created Student Learning Objectives (SLOs) for undergraduate geometry courses. This seminar will present an exploration on where, how, and to what degree the SLOs are incorporated into MA 408. In addition, a reflection will be provided about changes made to the course based on the shared work of the national community and assessment data about NCSU students' performance relative to national averages.
+
+<!-- Source: NC State Mathematics calendar. -->

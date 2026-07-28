@@ -1,0 +1,13 @@
+---
+title: "Specifications-Based Grading in MA 225"
+subtitle: "Ashley Tharp (NC State Mathematics)"
+date: 2023-04-13
+status: past
+categories: [talk]
+---
+
+## Abstract
+
+Alternative grading systems have been praised as more equitable, but how do they work in practice in the NCSU Math Department? In this talk, I'll provide a brief overview of popular alternative grading systems. I'll also share my experience of using specifications (or "specs")-based grading in MA 225: Foundations of Advanced Mathematics, including why I chose specs-based grading, how I implemented it, how it has gone in MA 225 this semester, and takeaways from the experience. Finally, we'll discuss ways to experiment with alternative grading options in various math classes. 
+
+<!-- Source: Scheduled Seminars.xlsx, "Spring 2023", row 4. Approximate attendance: 10. -->

@@ -1,0 +1,20 @@
+---
+title: "Engaging in Critical Transformation of Math Programs to Disrupt the System"
+subtitle: "Matt Voigt (Clemson)"
+date: 2023-09-28
+status: past
+categories: [talk]
+---
+
+- [Recording](https://ncsu.zoom.us/rec/share/t8e8ciBnF840LZOpPY6sKwhyAgrGB9bvHKwFqMEnnYcQ4cpsCbCgFdBS0bj-giKl.gzK3aqeZ5NSoEK-w)
+- [Slides](https://drive.google.com/file/d/19DSUPUIrsqjOPZrg3ZKf8Gq46eEp3tbg/view?usp=drive_link)
+
+## Abstract
+
+In this interactive seminar, we will examine how data (qualitative and quantitative) can be leveraged to interrogate, disrupt, and enact changes in introductory math programs. In particular, I will share insights from the ACT UP Math project, which is studying the role and impact of research-practice partnerships between mathematics education experts and mathematics department faculty to critically and systematically initiate transformative efforts to improve the experiences of students with marginalized identities in introductory mathematics programs. This seminar will explore the shared experiences we encountered while working toward critical transformations, focusing on three tensions that surfaced and framing these tensions as expected and necessary components of the process of critical change. These three tensions explore the role of identity as neutral or central, the enactment of power as power over or power with, and the role of students as experts or novices. These expected and necessary tensions are evidence of the transformations from dominance toward criticality happening within the departments.
+
+## Speaker Bio
+
+I am an assistant professor at Clemson University in the Engineering and Science Education Department. I grew up in a rural Minnesota farming community, and I am a proud first-generation college student and queer mathematics educator. I love to travel and cook. My research examines issues of equity and identity for marginalized groups in undergraduate mathematics. My bucket list goal is to visit every national park in the United States.
+
+<!-- Source: Scheduled Seminars.xlsx, "Fall 2023", row 7. -->

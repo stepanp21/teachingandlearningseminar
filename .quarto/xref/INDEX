@@ -1,0 +1,128 @@
+{
+  "index.qmd": {
+    "index.html": "e08695b1"
+  },
+  "about.qmd": {
+    "about.html": "a6799b4e"
+  },
+  "archive.qmd": {
+    "archive.html": "8ebdbf8b"
+  },
+  "sessions/2022-09-15-narrative-in-calculus.qmd": {
+    "2022-09-15-narrative-in-calculus.html": "34da95a8"
+  },
+  "sessions/2022-09-08-test-writing-panel.qmd": {
+    "2022-09-08-test-writing-panel.html": "9a04fb2a"
+  },
+  "sessions/2023-10-26-lightning-talks.qmd": {
+    "2023-10-26-lightning-talks.html": "cd0c90d0"
+  },
+  "sessions/2024-04-04-lightning-talks.qmd": {
+    "2024-04-04-lightning-talks.html": "c7e440f8"
+  },
+  "sessions/2024-10-31-megan-ryals.qmd": {
+    "2024-10-31-megan-ryals.html": "3c3673db"
+  },
+  "sessions/2023-08-31-gradescope-workshop.qmd": {
+    "2023-08-31-gradescope-workshop.html": "3124fdc4"
+  },
+  "sessions/2025-04-08-camryn-thompson.qmd": {
+    "2025-04-08-camryn-thompson.html": "ee68fef0"
+  },
+  "sessions/2025-03-04-adrian-kuhlman.qmd": {
+    "2025-03-04-adrian-kuhlman.html": "4bee56a1"
+  },
+  "sessions/2022-10-06-matlab-grader-workshop.qmd": {
+    "2022-10-06-matlab-grader-workshop.html": "a98df474"
+  },
+  "sessions/2022-12-01-flipped-hybrid-courses.qmd": {
+    "2022-12-01-flipped-hybrid-courses.html": "962d32dd"
+  },
+  "sessions/2022-08-25-data-science-academy-design-decisions.qmd": {
+    "2022-08-25-data-science-academy-design-decisions.html": "58741f28"
+  },
+  "sessions/2025-10-30-charles-henderson.qmd": {
+    "2025-10-30-charles-henderson.html": "ab8e0d01"
+  },
+  "sessions/2025-11-20-ptp-panel.qmd": {
+    "2025-11-20-ptp-panel.html": "9852c11e"
+  },
+  "sessions/2025-09-25-suzanne-crifo.qmd": {
+    "2025-09-25-suzanne-crifo.html": "7671a5e7"
+  },
+  "sessions/2022-11-10-student-conduct-workshop.qmd": {
+    "2022-11-10-student-conduct-workshop.html": "434490b7"
+  },
+  "sessions/2025-10-16-new-federal-law.qmd": {
+    "2025-10-16-new-federal-law.html": "b7c3e3dd"
+  },
+  "sessions/2023-09-28-matt-voigt.qmd": {
+    "2023-09-28-matt-voigt.html": "544dd360"
+  },
+  "sessions/2022-09-29-teaching-through-gestures.qmd": {
+    "2022-09-29-teaching-through-gestures.html": "45fa5e0e"
+  },
+  "sessions/2024-02-15-rani-satyam.qmd": {
+    "2024-02-15-rani-satyam.html": "a32b6337"
+  },
+  "sessions/2023-04-20-lightning-talks.qmd": {
+    "2023-04-20-lightning-talks.html": "a7188d4a"
+  },
+  "sessions/2024-11-07-eric-hanson.qmd": {
+    "2024-11-07-eric-hanson.html": "ad472f13"
+  },
+  "sessions/2023-11-09-jack-bookman-emily-braley.qmd": {
+    "2023-11-09-jack-bookman-emily-braley.html": "32c631cb"
+  },
+  "sessions/2023-11-30-moodle-quiz-workshop.qmd": {
+    "2023-11-30-moodle-quiz-workshop.html": "0f86921f"
+  },
+  "sessions/2024-02-29-molly-fenn-patty-clemons.qmd": {
+    "2024-02-29-molly-fenn-patty-clemons.html": "cffb6439"
+  },
+  "sessions/2022-09-22-water-cooler-teaching-discussion.qmd": {
+    "2022-09-22-water-cooler-teaching-discussion.html": "5d5f82a4"
+  },
+  "sessions/2024-02-01-catie-acitelli.qmd": {
+    "2024-02-01-catie-acitelli.html": "f0c738c7"
+  },
+  "sessions/2023-09-14-sunghwan.qmd": {
+    "2023-09-14-sunghwan.html": "417b4739"
+  },
+  "sessions/2024-01-25-eli-luberoff.qmd": {
+    "2024-01-25-eli-luberoff.html": "5af9e88a"
+  },
+  "sessions/2023-04-13-specifications-standards-based-grading.qmd": {
+    "2023-04-13-specifications-standards-based-grading.html": "df185c17"
+  },
+  "sessions/2025-03-18-erin-krupa.qmd": {
+    "2025-03-18-erin-krupa.html": "b79da21d"
+  },
+  "sessions/2024-03-18-jack-emily.qmd": {
+    "2024-03-18-jack-emily.html": "1559e700"
+  },
+  "sessions/2023-11-02-maria-meehan.qmd": {
+    "2023-11-02-maria-meehan.html": "2d101783"
+  },
+  "sessions/2022-10-27-lightning-talks.qmd": {
+    "2022-10-27-lightning-talks.html": "e24b06e2"
+  },
+  "sessions/2025-11-20-is-ptp-right-for-you.qmd": {
+    "2025-11-20-is-ptp-right-for-you.html": "8f364202"
+  },
+  "sessions/2024-11-07-team-based-learning-mastery-grading.qmd": {
+    "2024-11-07-team-based-learning-mastery-grading.html": "82046a9e"
+  },
+  "sessions/2025-04-08-journey-with-course-coordination.qmd": {
+    "2025-04-08-journey-with-course-coordination.html": "8933aba0"
+  },
+  "sessions/2025-03-04-what-does-an-a-in-math-really-mean.qmd": {
+    "2025-03-04-what-does-an-a-in-math-really-mean.html": "f97a1251"
+  },
+  "sessions/2025-10-30-high-use-active-learning.qmd": {
+    "2025-10-30-high-use-active-learning.html": "73f798a5"
+  },
+  "sessions/2025-09-25-metacognition-in-mathematics.qmd": {
+    "2025-09-25-metacognition-in-mathematics.html": "86960c57"
+  }
+}

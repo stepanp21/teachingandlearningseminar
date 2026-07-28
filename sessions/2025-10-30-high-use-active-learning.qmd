@@ -1,0 +1,14 @@
+---
+title: "Departments with high-use of active learning in introductory STEM courses: How did they get there?"
+subtitle: "Charles Henderson (NC State Physics)"
+date: 2025-10-30
+description: "Thursday, 3:00–4:00 p.m. · SAS 4201 and Zoom"
+status: past
+categories: [talk]
+---
+
+## Abstract
+
+There is now a convincing body of research showing that a wide variety of active learning instructional strategies consistently improve student learning and other desired outcomes when compared to traditional instruction. Like most fields, there is a substantial gap between the research-based knowledge about effective teaching and the actual practices of instructors. In 2019 we conducted a web-based survey of 3,769 instructors who taught introductory chemistry, mathematics, and physics courses. Survey responses suggest that the instructional practices are more strongly influenced by departmental factors than individual or institutional factors. To understand how high use departments got there, we conducted interviews with 27 instructors in 16 departments that were in the top quartile in terms of the use of active learning in their introductory courses. We developed a model that highlights the relevant characteristics of departments that have high use of active learning instruction in their introductory courses. According to this model, there are four main characteristics of such departments (motivated people, knowledge about teaching, opportunities, and cultures and structures that support active learning) and two positive feedback loops. There are two main take-away messages for those interested in promoting the use of active learning. The first is that all four components are important. A weak or missing component will limit the desired outcome. The second is that desired outcomes are obtained and strengthened over time through the two positive feedback loops. It is not realistic to expect meaningful sustainable change to occur in less than three years.
+
+<!-- Source: NC State Mathematics calendar. -->

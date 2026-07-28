@@ -1,0 +1,14 @@
+---
+title: "Session title"
+subtitle: "Speaker Name — Institution"
+date: 2026-09-03
+description: "Thursday, 3:00 p.m. · SAS 4201"
+status: upcoming
+categories: [talk]
+---
+
+## Abstract
+
+The abstract abstract.
+
+- [Recording](https://www.youtube.com/watch?v=xvFZjo5PgG0)
