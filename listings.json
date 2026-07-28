@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
     "listing": "/archive.html",
     "items": [
       "/sessions/2025-11-20-is-ptp-right-for-you.html",
@@ -33,9 +37,5 @@
       "/sessions/2022-09-08-test-writing-panel.html",
       "/sessions/2022-08-25-data-science-academy-design-decisions.html"
     ]
-  },
-  {
-    "listing": "/index.html",
-    "items": []
   }
 ]
