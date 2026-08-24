@@ -37,9 +37,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/sessions/paul-illustration.html",
-      "/sessions/henderson-hatcher-summit-p.html",
-      "/sessions/lightning-talks-f26.html"
+      "/sessions/2026-paul-illustration.html",
+      "/sessions/2026-johnson.html",
+      "/sessions/2026-henderson-hatcher-summit-p.html",
+      "/sessions/2026-lightning-talks-f26.html",
+      "/sessions/2026-sellers-modernizing-undergrad-math.html"
     ]
   }
 ]
