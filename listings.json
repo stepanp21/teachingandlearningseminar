@@ -2,6 +2,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/sessions/2026-paul-illustration.html",
       "/sessions/2025-11-20-is-ptp-right-for-you.html",
       "/sessions/2025-10-30-high-use-active-learning.html",
       "/sessions/2025-10-16-new-federal-law.html",
@@ -37,7 +38,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/sessions/2026-paul-illustration.html",
       "/sessions/2026-johnson.html",
       "/sessions/2026-henderson-hatcher-summit-p.html",
       "/sessions/2026-lightning-talks-f26.html",
