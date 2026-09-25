@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6bdd2aebeb936dcddaa5f935a5de481c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f93c2b1f3f0577f377aefa4848a86a36.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,7 +115,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -140,6 +141,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Teaching and Learning Seminar</span>
     </a>
@@ -221,7 +224,7 @@ Speaker(s)
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="dGFsaw==" data-listing-date-sort="1790222400000" data-listing-file-modified-sort="1790295991447" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190" data-listing-title-sort="What the Research Says about Active Learning – and What it Doesn’t" data-listing-filename-sort="2026-johnson.qmd">
+<tr data-index="0" data-categories="dGFsaw==" data-listing-date-sort="1790222400000" data-listing-file-modified-sort="1790362739643" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190" data-listing-title-sort="What the Research Says about Active Learning – and What it Doesn’t" data-listing-filename-sort="2026-johnson.qmd">
 <td>
 <span class="listing-date">Sep 24, 2026</span>
 </td>
@@ -234,7 +237,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="1" data-categories="dGFsaw==" data-listing-date-sort="1787803200000" data-listing-file-modified-sort="1787881158279" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Mathematical Illustration for Teaching and Learning" data-listing-filename-sort="2026-paul-illustration.qmd">
+<tr data-index="1" data-categories="dGFsaw==" data-listing-date-sort="1787803200000" data-listing-file-modified-sort="1787881158000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Mathematical Illustration for Teaching and Learning" data-listing-filename-sort="2026-paul-illustration.qmd">
 <td>
 <span class="listing-date">Aug 27, 2026</span>
 </td>
@@ -247,7 +250,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="2" data-categories="cGFuZWw=" data-listing-date-sort="1763614800000" data-listing-file-modified-sort="1785262572911" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="149" data-listing-title-sort="Is PTP Right for You? Insights and Experiences from Former Fellows" data-listing-filename-sort="2025-11-20-is-ptp-right-for-you.qmd">
+<tr data-index="2" data-categories="cGFuZWw=" data-listing-date-sort="1763614800000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="149" data-listing-title-sort="Is PTP Right for You? Insights and Experiences from Former Fellows" data-listing-filename-sort="2025-11-20-is-ptp-right-for-you.qmd">
 <td>
 <span class="listing-date">Nov 20, 2025</span>
 </td>
@@ -260,7 +263,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="3" data-categories="dGFsaw==" data-listing-date-sort="1761796800000" data-listing-file-modified-sort="1785262572911" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="253" data-listing-title-sort="Departments with high-use of active learning in introductory STEM courses: How did they get there?" data-listing-filename-sort="2025-10-30-high-use-active-learning.qmd">
+<tr data-index="3" data-categories="dGFsaw==" data-listing-date-sort="1761796800000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="253" data-listing-title-sort="Departments with high-use of active learning in introductory STEM courses: How did they get there?" data-listing-filename-sort="2025-10-30-high-use-active-learning.qmd">
 <td>
 <span class="listing-date">Oct 30, 2025</span>
 </td>
@@ -273,7 +276,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="4" data-categories="dGFsaw==" data-listing-date-sort="1760587200000" data-listing-file-modified-sort="1785262572911" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="81" data-listing-title-sort="Are you ready for the new federal law?" data-listing-filename-sort="2025-10-16-new-federal-law.qmd">
+<tr data-index="4" data-categories="dGFsaw==" data-listing-date-sort="1760587200000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="81" data-listing-title-sort="Are you ready for the new federal law?" data-listing-filename-sort="2025-10-16-new-federal-law.qmd">
 <td>
 <span class="listing-date">Oct 16, 2025</span>
 </td>
@@ -286,7 +289,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="5" data-categories="dGFsaw==" data-listing-date-sort="1758772800000" data-listing-file-modified-sort="1785262572911" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112" data-listing-title-sort="Metacognition in Mathematics: Enhancing Learning Through Strategy and Reflection" data-listing-filename-sort="2025-09-25-metacognition-in-mathematics.qmd">
+<tr data-index="5" data-categories="dGFsaw==" data-listing-date-sort="1758772800000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112" data-listing-title-sort="Metacognition in Mathematics: Enhancing Learning Through Strategy and Reflection" data-listing-filename-sort="2025-09-25-metacognition-in-mathematics.qmd">
 <td>
 <span class="listing-date">Sep 25, 2025</span>
 </td>
@@ -299,7 +302,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="6" data-categories="dGFsaw==" data-listing-date-sort="1744084800000" data-listing-file-modified-sort="1785262572910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90" data-listing-title-sort="My Journey with Course Coordination" data-listing-filename-sort="2025-04-08-journey-with-course-coordination.qmd">
+<tr data-index="6" data-categories="dGFsaw==" data-listing-date-sort="1744084800000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90" data-listing-title-sort="My Journey with Course Coordination" data-listing-filename-sort="2025-04-08-journey-with-course-coordination.qmd">
 <td>
 <span class="listing-date">Apr 8, 2025</span>
 </td>
@@ -312,7 +315,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="7" data-categories="dGFsaw==" data-listing-date-sort="1742270400000" data-listing-file-modified-sort="1785262572910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115" data-listing-title-sort="Get SLO'ing" data-listing-filename-sort="2025-03-18-erin-krupa.qmd">
+<tr data-index="7" data-categories="dGFsaw==" data-listing-date-sort="1742270400000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115" data-listing-title-sort="Get SLO'ing" data-listing-filename-sort="2025-03-18-erin-krupa.qmd">
 <td>
 <span class="listing-date">Mar 18, 2025</span>
 </td>
@@ -325,7 +328,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="8" data-categories="dGFsaw==" data-listing-date-sort="1741064400000" data-listing-file-modified-sort="1785262572910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="150" data-listing-title-sort="What Does an &quot;A&quot; in Math Really Mean?" data-listing-filename-sort="2025-03-04-what-does-an-a-in-math-really-mean.qmd">
+<tr data-index="8" data-categories="dGFsaw==" data-listing-date-sort="1741064400000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="150" data-listing-title-sort="What Does an &quot;A&quot; in Math Really Mean?" data-listing-filename-sort="2025-03-04-what-does-an-a-in-math-really-mean.qmd">
 <td>
 <span class="listing-date">Mar 4, 2025</span>
 </td>
@@ -338,7 +341,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="9" data-categories="dGFsaw==" data-listing-date-sort="1730955600000" data-listing-file-modified-sort="1785262572910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="91" data-listing-title-sort="Team-based learning and mastery grading in linear algebra" data-listing-filename-sort="2024-11-07-team-based-learning-mastery-grading.qmd">
+<tr data-index="9" data-categories="dGFsaw==" data-listing-date-sort="1730955600000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="91" data-listing-title-sort="Team-based learning and mastery grading in linear algebra" data-listing-filename-sort="2024-11-07-team-based-learning-mastery-grading.qmd">
 <td>
 <span class="listing-date">Nov 7, 2024</span>
 </td>
@@ -351,7 +354,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="10" data-categories="dGFsaw==" data-listing-date-sort="1730347200000" data-listing-file-modified-sort="1785262572910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="150" data-listing-title-sort="Integrating Research and Practice: The Development of Technology-based Learning Activities in Multivariable Calculus" data-listing-filename-sort="2024-10-31-megan-ryals.qmd">
+<tr data-index="10" data-categories="dGFsaw==" data-listing-date-sort="1730347200000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="150" data-listing-title-sort="Integrating Research and Practice: The Development of Technology-based Learning Activities in Multivariable Calculus" data-listing-filename-sort="2024-10-31-megan-ryals.qmd">
 <td>
 <span class="listing-date">Oct 31, 2024</span>
 </td>
@@ -364,7 +367,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="11" data-categories="dGFsaw==" data-listing-date-sort="1710734400000" data-listing-file-modified-sort="1785262572909" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="A survey of Programs Preparing Graduate Students to Teach Undergraduate Mathematics" data-listing-filename-sort="2024-03-18-jack-emily.qmd">
+<tr data-index="11" data-categories="dGFsaw==" data-listing-date-sort="1710734400000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="A survey of Programs Preparing Graduate Students to Teach Undergraduate Mathematics" data-listing-filename-sort="2024-03-18-jack-emily.qmd">
 <td>
 <span class="listing-date">Mar 18, 2024</span>
 </td>
@@ -377,7 +380,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="12" data-categories="dGFsaw==" data-listing-date-sort="1709182800000" data-listing-file-modified-sort="1785262572909" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96" data-listing-title-sort="Desmos Activity Builder" data-listing-filename-sort="2024-02-29-molly-fenn-patty-clemons.qmd">
+<tr data-index="12" data-categories="dGFsaw==" data-listing-date-sort="1709182800000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96" data-listing-title-sort="Desmos Activity Builder" data-listing-filename-sort="2024-02-29-molly-fenn-patty-clemons.qmd">
 <td>
 <span class="listing-date">Feb 29, 2024</span>
 </td>
@@ -390,7 +393,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="13" data-categories="dGFsaw==" data-listing-date-sort="1707973200000" data-listing-file-modified-sort="1785262572909" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="180" data-listing-title-sort="Affect Graphing: Tool for understanding students’ confidence, emotion, and experience" data-listing-filename-sort="2024-02-15-rani-satyam.qmd">
+<tr data-index="13" data-categories="dGFsaw==" data-listing-date-sort="1707973200000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="180" data-listing-title-sort="Affect Graphing: Tool for understanding students’ confidence, emotion, and experience" data-listing-filename-sort="2024-02-15-rani-satyam.qmd">
 <td>
 <span class="listing-date">Feb 15, 2024</span>
 </td>
@@ -403,7 +406,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="14" data-categories="dGFsaw==" data-listing-date-sort="1706763600000" data-listing-file-modified-sort="1785262572909" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324" data-listing-title-sort="The Development and Implementation of New Applied Math Curricula" data-listing-filename-sort="2024-02-01-catie-acitelli.qmd">
+<tr data-index="14" data-categories="dGFsaw==" data-listing-date-sort="1706763600000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324" data-listing-title-sort="The Development and Implementation of New Applied Math Curricula" data-listing-filename-sort="2024-02-01-catie-acitelli.qmd">
 <td>
 <span class="listing-date">Feb 1, 2024</span>
 </td>
@@ -416,7 +419,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="15" data-categories="dGFsaw==" data-listing-date-sort="1706158800000" data-listing-file-modified-sort="1785262572909" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Tools your students won't graduate from" data-listing-filename-sort="2024-01-25-eli-luberoff.qmd">
+<tr data-index="15" data-categories="dGFsaw==" data-listing-date-sort="1706158800000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Tools your students won't graduate from" data-listing-filename-sort="2024-01-25-eli-luberoff.qmd">
 <td>
 <span class="listing-date">Jan 25, 2024</span>
 </td>
@@ -429,7 +432,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="16" data-categories="d29ya3Nob3A=" data-listing-date-sort="1701320400000" data-listing-file-modified-sort="1785262572909" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Moodle Quiz Workshop" data-listing-filename-sort="2023-11-30-moodle-quiz-workshop.qmd">
+<tr data-index="16" data-categories="d29ya3Nob3A=" data-listing-date-sort="1701320400000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Moodle Quiz Workshop" data-listing-filename-sort="2023-11-30-moodle-quiz-workshop.qmd">
 <td>
 <span class="listing-date">Nov 30, 2023</span>
 </td>
@@ -442,7 +445,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="17" data-categories="dGFsaw==" data-listing-date-sort="1698897600000" data-listing-file-modified-sort="1785262572909" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="161" data-listing-title-sort="Video recordings to complement, or substitute for, the first-year mathematics lecture: One lecturer’s journey" data-listing-filename-sort="2023-11-02-maria-meehan.qmd">
+<tr data-index="17" data-categories="dGFsaw==" data-listing-date-sort="1698897600000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="161" data-listing-title-sort="Video recordings to complement, or substitute for, the first-year mathematics lecture: One lecturer’s journey" data-listing-filename-sort="2023-11-02-maria-meehan.qmd">
 <td>
 <span class="listing-date">Nov 2, 2023</span>
 </td>
@@ -455,7 +458,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="18" data-categories="bGlnaHRuaW5nLXRhbGtz" data-listing-date-sort="1698292800000" data-listing-file-modified-sort="1785262572908" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="107" data-listing-title-sort="Lightning Talks" data-listing-filename-sort="2023-10-26-lightning-talks.qmd">
+<tr data-index="18" data-categories="bGlnaHRuaW5nLXRhbGtz" data-listing-date-sort="1698292800000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="107" data-listing-title-sort="Lightning Talks" data-listing-filename-sort="2023-10-26-lightning-talks.qmd">
 <td>
 <span class="listing-date">Oct 26, 2023</span>
 </td>
@@ -468,7 +471,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="19" data-categories="dGFsaw==" data-listing-date-sort="1695873600000" data-listing-file-modified-sort="1785262572908" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="240" data-listing-title-sort="Engaging in Critical Transformation of Math Programs to Disrupt the System" data-listing-filename-sort="2023-09-28-matt-voigt.qmd">
+<tr data-index="19" data-categories="dGFsaw==" data-listing-date-sort="1695873600000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="240" data-listing-title-sort="Engaging in Critical Transformation of Math Programs to Disrupt the System" data-listing-filename-sort="2023-09-28-matt-voigt.qmd">
 <td>
 <span class="listing-date">Sep 28, 2023</span>
 </td>
@@ -481,7 +484,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="20" data-categories="dGFsaw==" data-listing-date-sort="1694664000000" data-listing-file-modified-sort="1785262572908" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109" data-listing-title-sort="Knowledge in Interaction: A Key to Promote Participatory Equity During Whole-Group Discussions" data-listing-filename-sort="2023-09-14-sunghwan.qmd">
+<tr data-index="20" data-categories="dGFsaw==" data-listing-date-sort="1694664000000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109" data-listing-title-sort="Knowledge in Interaction: A Key to Promote Participatory Equity During Whole-Group Discussions" data-listing-filename-sort="2023-09-14-sunghwan.qmd">
 <td>
 <span class="listing-date">Sep 14, 2023</span>
 </td>
@@ -494,7 +497,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="21" data-categories="d29ya3Nob3A=" data-listing-date-sort="1693454400000" data-listing-file-modified-sort="1785262572908" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="75" data-listing-title-sort="Gradescope workshop" data-listing-filename-sort="2023-08-31-gradescope-workshop.qmd">
+<tr data-index="21" data-categories="d29ya3Nob3A=" data-listing-date-sort="1693454400000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="75" data-listing-title-sort="Gradescope workshop" data-listing-filename-sort="2023-08-31-gradescope-workshop.qmd">
 <td>
 <span class="listing-date">Aug 31, 2023</span>
 </td>
@@ -507,7 +510,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="22" data-categories="bGlnaHRuaW5nLXRhbGtz" data-listing-date-sort="1681963200000" data-listing-file-modified-sort="1785262572908" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105" data-listing-title-sort="Lightning talks" data-listing-filename-sort="2023-04-20-lightning-talks.qmd">
+<tr data-index="22" data-categories="bGlnaHRuaW5nLXRhbGtz" data-listing-date-sort="1681963200000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105" data-listing-title-sort="Lightning talks" data-listing-filename-sort="2023-04-20-lightning-talks.qmd">
 <td>
 <span class="listing-date">Apr 20, 2023</span>
 </td>
@@ -520,7 +523,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="23" data-categories="dGFsaw==" data-listing-date-sort="1681358400000" data-listing-file-modified-sort="1785262572907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="102" data-listing-title-sort="Specifications-Based Grading in MA 225" data-listing-filename-sort="2023-04-13-specifications-standards-based-grading.qmd">
+<tr data-index="23" data-categories="dGFsaw==" data-listing-date-sort="1681358400000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="102" data-listing-title-sort="Specifications-Based Grading in MA 225" data-listing-filename-sort="2023-04-13-specifications-standards-based-grading.qmd">
 <td>
 <span class="listing-date">Apr 13, 2023</span>
 </td>
@@ -533,7 +536,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="24" data-categories="d29ya3Nob3A=" data-listing-date-sort="1669870800000" data-listing-file-modified-sort="1785262572907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="168" data-listing-title-sort="Workshop on Flipped and Hybrid Courses" data-listing-filename-sort="2022-12-01-flipped-hybrid-courses.qmd">
+<tr data-index="24" data-categories="d29ya3Nob3A=" data-listing-date-sort="1669870800000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="168" data-listing-title-sort="Workshop on Flipped and Hybrid Courses" data-listing-filename-sort="2022-12-01-flipped-hybrid-courses.qmd">
 <td>
 <span class="listing-date">Dec 1, 2022</span>
 </td>
@@ -546,7 +549,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="25" data-categories="d29ya3Nob3A=" data-listing-date-sort="1668056400000" data-listing-file-modified-sort="1785262572907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77" data-listing-title-sort="Office of Student Conduct Workshop" data-listing-filename-sort="2022-11-10-student-conduct-workshop.qmd">
+<tr data-index="25" data-categories="d29ya3Nob3A=" data-listing-date-sort="1668056400000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77" data-listing-title-sort="Office of Student Conduct Workshop" data-listing-filename-sort="2022-11-10-student-conduct-workshop.qmd">
 <td>
 <span class="listing-date">Nov 10, 2022</span>
 </td>
@@ -559,7 +562,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="26" data-categories="bGlnaHRuaW5nLXRhbGtz" data-listing-date-sort="1666843200000" data-listing-file-modified-sort="1785262572907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="110" data-listing-title-sort="Lightning Talk" data-listing-filename-sort="2022-10-27-lightning-talks.qmd">
+<tr data-index="26" data-categories="bGlnaHRuaW5nLXRhbGtz" data-listing-date-sort="1666843200000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="110" data-listing-title-sort="Lightning Talk" data-listing-filename-sort="2022-10-27-lightning-talks.qmd">
 <td>
 <span class="listing-date">Oct 27, 2022</span>
 </td>
@@ -572,7 +575,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="27" data-categories="d29ya3Nob3A=" data-listing-date-sort="1665028800000" data-listing-file-modified-sort="1785262572907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="84" data-listing-title-sort="MATLAB Grader Workshop" data-listing-filename-sort="2022-10-06-matlab-grader-workshop.qmd">
+<tr data-index="27" data-categories="d29ya3Nob3A=" data-listing-date-sort="1665028800000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="84" data-listing-title-sort="MATLAB Grader Workshop" data-listing-filename-sort="2022-10-06-matlab-grader-workshop.qmd">
 <td>
 <span class="listing-date">Oct 6, 2022</span>
 </td>
@@ -585,7 +588,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="28" data-categories="dGFsaw==" data-listing-date-sort="1664424000000" data-listing-file-modified-sort="1785262572907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="Learning and teaching through gestures" data-listing-filename-sort="2022-09-29-teaching-through-gestures.qmd">
+<tr data-index="28" data-categories="dGFsaw==" data-listing-date-sort="1664424000000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="Learning and teaching through gestures" data-listing-filename-sort="2022-09-29-teaching-through-gestures.qmd">
 <td>
 <span class="listing-date">Sep 29, 2022</span>
 </td>
@@ -598,7 +601,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="29" data-categories="dGFsaw==" data-listing-date-sort="1663214400000" data-listing-file-modified-sort="1785262572907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33" data-listing-title-sort="The role of the narrative in calculus" data-listing-filename-sort="2022-09-15-narrative-in-calculus.qmd">
+<tr data-index="29" data-categories="dGFsaw==" data-listing-date-sort="1663214400000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33" data-listing-title-sort="The role of the narrative in calculus" data-listing-filename-sort="2022-09-15-narrative-in-calculus.qmd">
 <td>
 <span class="listing-date">Sep 15, 2022</span>
 </td>
@@ -611,7 +614,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="30" data-categories="cGFuZWw=" data-listing-date-sort="1662609600000" data-listing-file-modified-sort="1785262572906" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="13" data-listing-title-sort="Test Writing Panel" data-listing-filename-sort="2022-09-08-test-writing-panel.qmd">
+<tr data-index="30" data-categories="cGFuZWw=" data-listing-date-sort="1662609600000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="13" data-listing-title-sort="Test Writing Panel" data-listing-filename-sort="2022-09-08-test-writing-panel.qmd">
 <td>
 <span class="listing-date">Sep 8, 2022</span>
 </td>
@@ -624,7 +627,7 @@ Speaker(s)
 
 </tr>
 
-<tr data-index="31" data-categories="dGFsaw==" data-listing-date-sort="1661400000000" data-listing-file-modified-sort="1785262572906" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109" data-listing-title-sort="The ADAPT Model: pedagogical choices for the new NC State Data Science Academy" data-listing-filename-sort="2022-08-25-data-science-academy-design-decisions.qmd">
+<tr data-index="31" data-categories="dGFsaw==" data-listing-date-sort="1661400000000" data-listing-file-modified-sort="1785262572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109" data-listing-title-sort="The ADAPT Model: pedagogical choices for the new NC State Data Science Academy" data-listing-filename-sort="2022-08-25-data-science-academy-design-decisions.qmd">
 <td>
 <span class="listing-date">Aug 25, 2022</span>
 </td>
@@ -700,13 +703,14 @@ Speaker(s)
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
